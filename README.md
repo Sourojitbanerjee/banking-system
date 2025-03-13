@@ -6,9 +6,3 @@ This is a basic **banking system** implemented in C, where users can:
 ✅ Withdraw money  
 ✅ Check balance  
 ✅ Exit the system  
-
-## How to Run  
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Sourojitbanerjee/banking-system.git
-   cd banking-system
