@@ -1,8 +1,18 @@
-# Simple Banking System in C  
+# Banking System 🏦  
+A simple banking system built using C.  
 
-This is a basic **banking system** implemented in C, where users can:  
-✅ Enter their name & account number  
-✅ Deposit money  
-✅ Withdraw money  
-✅ Check balance  
-✅ Exit the system  
+## 🚀 Features  
+✅ Account creation  
+✅ Deposit & Withdraw balance  
+✅ Secure authentication  
+
+## 🔧 Technologies Used  
+- C Programming  
+- File Handling  
+
+## 📌 Installation  
+```bash
+git clone https://github.com/Sourojitbanerjee/banking-system.git
+cd banking-system
+gcc main.c -o banking
+./banking
